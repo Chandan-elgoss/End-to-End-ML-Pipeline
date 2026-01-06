@@ -1,14 +1,16 @@
-pandas
-notebook
-numpy
-matplotlib
+pandas #
+notebook #
+numpy #
+matplotlib #
 scikit-learn
 python-box==6.0.2
 pyYAML
 ensure==1.0.2
-joblip
 ONNX
 types-pyYAML
-Flask
-Flask-CORS
+Flask #
+Flask-CORS #
+ultralytics #
+pytorch #
+mlflow #
 -e .       #It will figure out the dependencies from setup.py

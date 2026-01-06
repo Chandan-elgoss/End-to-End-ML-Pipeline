@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 # Package metadata
 PACKAGE_NAME = "End-to-End-ML-Pipeline"
 VERSION = "0.1.0"
-AUTHOR = "chandan-elgoss"
+AUTHOR = "Chandan-elgoss"
 AUTHOR_EMAIL = "chandan.kumar@elgoss.com"
 DESCRIPTION = "A comprehensive end-to-end machine learning pipeline"
 URL = f"https://github.com/{AUTHOR}/{PACKAGE_NAME}"
